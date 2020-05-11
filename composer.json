@@ -1,0 +1,24 @@
+{
+  "name": "coderiki/php-helpers",
+  "description": "Provides useful helper classes and functions",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Yusuf Onur SARI",
+      "email": "63yusufsari63@gmail.com",
+      "role": "Lead"
+    }
+  ],
+  "require": {
+    "php": "7.2.11",
+    "ext-mbstring": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "yusufonur\\Helpers\\": "src/Helpers"
+    },
+    "files": [
+    ]
+  }
+}
