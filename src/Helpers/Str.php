@@ -97,6 +97,10 @@ class Str
      */
     public static function limitCharacter(string $text, int $limit = 255, string $end = '...'): string
     {
+        if (mb_strwidth($text, 'UTF-8') <= $limit) {
+            return $text;
+        }
+
         return rtrim(mb_strimwidth($text, 0, $limit, '', 'UTF-8')) . $end;
     }
 

@@ -2,6 +2,7 @@
   "name": "coderiki/php-helpers",
   "description": "Provides useful helper classes and functions",
   "license": "MIT",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Yusuf Onur SARI",
