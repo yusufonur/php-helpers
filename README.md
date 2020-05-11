@@ -1,6 +1,6 @@
 ## About The Package
 
-Provides useful helper classes and functions
+This package provides useful helper classes and functions.
 
 
 

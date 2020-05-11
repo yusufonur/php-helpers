@@ -1,7 +1,6 @@
 {
   "name": "coderiki/php-helpers",
   "description": "Provides useful helper classes and functions",
-  "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
