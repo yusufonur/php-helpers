@@ -1,6 +1,11 @@
 {
   "name": "coderiki/php-helpers",
   "description": "Provides useful helper classes and functions",
+  "keywords": [
+    "Php helpers",
+    "String helpers",
+    "Csrf token"
+  ],
   "license": "MIT",
   "minimum-stability": "dev",
   "prefer-stable": true,

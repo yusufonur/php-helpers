@@ -6,7 +6,9 @@ This package provides useful helper classes and functions.
 
 Install the package via Composer:
 ```sh
- composer require coderiki/php-helpers
+composer require coderiki/php-helpers
+                OR
+composer require "coderiki/php-helpers @dev"
 ```
 And you can use:
 ```php
