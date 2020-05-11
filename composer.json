@@ -3,6 +3,7 @@
   "description": "Provides useful helper classes and functions",
   "license": "MIT",
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "authors": [
     {
       "name": "Yusuf Onur SARI",
